@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark_site",
+  "version": "1.0.0",
+  "description": "Express test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idrees",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
